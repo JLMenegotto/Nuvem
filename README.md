@@ -20,7 +20,7 @@ Incorporar o conteúdo do arquivo **Nuve2025.addin** na lista de aplicações do
 
 ![Interface_01](https://github.com/user-attachments/assets/6ce06474-c195-42ec-8615-f94a70ed3c1e)
 
-
+O botão carrega é o primeiro processo a ser executado. A aplicação vai ler o arquivo Nuvem.txt e insere o arquivo rcs com os valores de deslocamento XYZ e rotação.
 
 #### Exemplos de cortes de análise da nuvem:
 
