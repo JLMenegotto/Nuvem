@@ -14,7 +14,7 @@ Aplicação de Revit para trabalhar com nuvem de pontos.
 Incorporar o conteúdo do arquivo **Nuve2025.addin** na lista de aplicações do seu sistema. A pasta que contém do arquivo de addins é **C:\ProgramData\Autodesk\Revit\Addins\2025**. Caso decida instalar a API numa outra pasta da sua preferência, deverá alterar o caminho presente no conteúdo do arquivo ONTO2025.addin  
 
 	<AddIn Type="Command">
-	    <Assembly>C:\Pasta_de_instalação\Nuve_2025.dll</Assembly>
+	    <Assembly>C:\APIBIM\Nuvem\Nuve_2025.dll</Assembly>
 	    <AddInId>106715fe-8dff-4d23-9080-a82a34c92fe8</AddInId>
 	    <FullClassName>NUVEM.Nuvem</FullClassName>
 	    <Text>Nuvem_2025</Text>
