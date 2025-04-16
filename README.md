@@ -54,11 +54,12 @@ e inserinseridas. Cada arquivo rcs é acompanhado de 4 valores numéricos, 3 coo
 	**----------------------------------------------------------------------
 
 A análise dos pontos com finalidade de modelagem ou visualização podem ser feita a partir dos andares ou dos eixos estruturais definidos no modelo Revit.   
-Os botões **Cor-H** e **Cor-V** utilizam os andares ou os eixos extruturais selecionados nos campos.   
+Os botões **Cor-H** e **Cor-V** utilizam os andares ou os eixos estruturais selecionados nos campos.   
 
-Os valores numéricos aumentam ou deslocam as faixa de pontos selecionados. A faixa de corte é inicialmente configurada com o valor 1 e deslocamento 0.  
-
-O botão Isola é utilizado para mostrar apenas os pontos selecionados no corte.
+Os valores dos campos numéricos aumentam ou deslocam as faixa de pontos selecionados. 
+A faixa de corte é inicialmente configurada com o valor 1 e deslocamento 0.  
+O botão **Isola** é utilizado para mostrar apenas os pontos selecionados no corte.
+Os botões **+** e **-** são utilizados para deslocar dinamicamente as faixas cortadas.
 
 #### Exemplos de cortes de análise da nuvem.
 ###### Corte horizontal sobre o 2°Andar
