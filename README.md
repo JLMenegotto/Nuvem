@@ -17,8 +17,7 @@ Incorporar o conteúdo do arquivo **Nuve2025.addin** na lista de aplicações do
 </AddIn>
 
 #### Interface:
-
-![Interface_01](https://github.com/user-attachments/assets/6ce06474-c195-42ec-8615-f94a70ed3c1e)
+		![Interface_01](https://github.com/user-attachments/assets/6ce06474-c195-42ec-8615-f94a70ed3c1e)
 
 O botão carrega é o primeiro processo a ser executado. A aplicação vai ler o arquivo Nuvem.txt e insere o arquivo rcs com os valores de deslocamento XYZ e rotação.
 A análise dos pontos com finalidade de modelagem ou visualização podem ser feitos a partir dos andares ou dos eixos estruturais definidos no modelo Revit. 
