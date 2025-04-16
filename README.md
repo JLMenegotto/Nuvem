@@ -27,12 +27,19 @@ O botão Isola é utilizado para mostrar apenas os pontos selecionados no corte.
 
 #### Exemplos de cortes de análise da nuvem:
 
+###### Corte horizontal sobre o Andar 3
 ![Horizontal_01](https://github.com/user-attachments/assets/2c9e6e24-e248-4cc4-8381-c97d057b695d)
+
+###### Corte horizontal sobre o Andar 3 isolado
 ![Horizontal_02](https://github.com/user-attachments/assets/606a3694-0dd9-4824-a9e6-50bcf62f8013)
 
+###### Corte vertical sobre o eixo 6
 ![Vertical_01](https://github.com/user-attachments/assets/741afd09-9b33-4cc1-a610-5b9ad1ef80a8)
+
+###### Corte vertical sobre o eixo 6 isolado
 ![Vertical_02](https://github.com/user-attachments/assets/966e9895-bd03-4d3d-a2ea-7f1f80e29eed)
 
+###### Corte vertical sobre o eixo 6 isolado
 ![Vertical_03](https://github.com/user-attachments/assets/c6d80f0f-a7bf-422b-b309-61b1d8ccdb88)
 
 
