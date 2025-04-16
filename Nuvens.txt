@@ -1,7 +1,10 @@
 ** Arquivo com a lista de arquivos de nuvens de pontos. 
-** Para que o arquivo seja considerado e carregado no modelo 
+** Para que o arquivo rcs seja considerado e carregado no modelo 
 ** Eliminar os caracteres ** colocados antes do caminho 
-** Separando com uma vírgula pode colocar um valor de rotação
+** Os quatro valores numéricos depois do caminho significam
+** os deslocamentos em X,Y,Z e a rotação de inserção.
+** Se quiser que o arrquivo de nuvem de ponto seja inserido sem
+** transformar a sua posição coloque 0,0,0,0
 **----------------------------------------------------------------------
 **----------------------------------------------------------------------
 ** Nuven de pontos do Bloco A do CT com Escaner Core da FARO em 2025
@@ -12,22 +15,3 @@ C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\POLI\\POLI.rcs                  , -120
 ** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\POLI_Manual\\POLI_Manual.rcs , 0   , 0  ,  0  , 0
 **----------------------------------------------------------------------
 **----------------------------------------------------------------------
-** Nuvens exteriores do prédio CDTS da Fiocruz escaneado em 2018
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_ext_scan_001.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_ext_scan_002.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_ext_scan_003.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_ext_scan_004.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_ext_scan_005.rcs  , 0   , 0  ,  0  , 0
-**----------------------------------------------------------------------
-**----------------------------------------------------------------------
-** Nuvens interiores do prédio CDTS da Fiocruz escaneado em 2018
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_001.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_002.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_003.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_004.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_005.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_006.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_007.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_008.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_009.rcs  , 0   , 0  ,  0  , 0
-** C:\\JLMenegotto\\Projetos\\UFRJ\\CT_Nuve\\CDTS\\cdts_int_scan_010.rcs  , 0   , 0  ,  0  , 0
