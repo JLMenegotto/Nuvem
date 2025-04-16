@@ -26,8 +26,8 @@ e inserinseridas. Cada arquivo rcs é acompanhado de 4 valores numéricos, 3 coo
 	** Para que o arquivo rcs seja considerado e carregado no modelo 
 	** Eliminar os caracteres ** colocados antes do caminho 
 	** Os quatro valores numéricos depois do caminho significam
-	** os deslocamentos em X,Y,Z e a rotação de inserção. 
-        ** normalmente com os mesmos valores para a mesma série de escaneamentos.
+	** os deslocamentos em X,Y,Z e a rotação de inserção.
+	** normalmente com os mesmos valores para a mesma série de escaneamentos.
 	** Se quiser que o arquivo de nuvem de ponto seja inserido sem
 	** transformar a sua posição coloque 0,0,0,0
 	**----------------------------------------------------------------------
