@@ -19,15 +19,15 @@ Incorporar o conteúdo do arquivo **Nuve2025.addin** na lista de aplicações do
 #### Interface:
 ![Interface_01](https://github.com/user-attachments/assets/6ce06474-c195-42ec-8615-f94a70ed3c1e)
 
-	O botão **Carrega** é o primeiro processo a ser executado. A aplicação vai ler o arquivo **Nuvem.txt** onde se especifica as nuvem de pontos que desejam ser carregadas  
-	e inserinseridas. Cada arquivo rcs é acompanhado de 4 valores numéricos, 3 coordenadas de de deslocamento XYZ e um valor de rotação.   
+O botão **Carrega** é o primeiro processo a ser executado. A aplicação vai ler o arquivo **Nuvem.txt** onde se especifica as nuvem de pontos que desejam ser carregadas  
+e inserinseridas. Cada arquivo rcs é acompanhado de 4 valores numéricos, 3 coordenadas de de deslocamento XYZ e um valor de rotação.   
 
-	A análise dos pontos com finalidade de modelagem ou visualização podem ser feitos a partir dos andares ou dos eixos estruturais definidos no modelo Revit.   
-	Os botões **Cor-H** e **Cor-V** utilizam os andares ou os eixos extruturais selecionados nos campos.   
+A análise dos pontos com finalidade de modelagem ou visualização podem ser feitos a partir dos andares ou dos eixos estruturais definidos no modelo Revit.   
+Os botões **Cor-H** e **Cor-V** utilizam os andares ou os eixos extruturais selecionados nos campos.   
 
-	Os valores numéricos aumentam ou deslocam as faixa de pontos selecionados. A faixa de corte é inicialmente configurada com o valor 1 e deslocamento 0.  
+Os valores numéricos aumentam ou deslocam as faixa de pontos selecionados. A faixa de corte é inicialmente configurada com o valor 1 e deslocamento 0.  
 
-	O botão Isola é utilizado para mostrar apenas os pontos selecionados no corte.
+O botão Isola é utilizado para mostrar apenas os pontos selecionados no corte.
 
 #### Exemplos de cortes de análise da nuvem.
 ###### Corte horizontal sobre o 2°Andar
