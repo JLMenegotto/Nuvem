@@ -27,12 +27,14 @@ O botão Isola é utilizado para mostrar apenas os pontos selecionados no corte.
 
 #### Exemplos de cortes de análise da nuvem:
 
-![Corte_01](https://github.com/user-attachments/assets/5efe97c8-c359-4208-a2ef-56275f3012ba)
+![Horizontal_01](https://github.com/user-attachments/assets/2c9e6e24-e248-4cc4-8381-c97d057b695d)
+![Horizontal_02](https://github.com/user-attachments/assets/606a3694-0dd9-4824-a9e6-50bcf62f8013)
 
-![Corte_02](https://github.com/user-attachments/assets/6ba112f7-1851-46d2-8070-74ff386eeb2a)
+![Vertical_01](https://github.com/user-attachments/assets/741afd09-9b33-4cc1-a610-5b9ad1ef80a8)
+![Vertical_02](https://github.com/user-attachments/assets/966e9895-bd03-4d3d-a2ea-7f1f80e29eed)
 
-![Corte_03](https://github.com/user-attachments/assets/7f114a80-9369-4e9d-b643-d88266f8c26c)
+![Vertical_03](https://github.com/user-attachments/assets/c6d80f0f-a7bf-422b-b309-61b1d8ccdb88)
 
-![Corte_04](https://github.com/user-attachments/assets/bcc21723-5d9e-472a-888f-b146f0a1649f)
 
-![Corte_05](https://github.com/user-attachments/assets/810a067e-748b-4d90-9e87-01467aeec966)
+
+
